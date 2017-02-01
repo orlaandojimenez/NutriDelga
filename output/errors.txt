@@ -1,0 +1,1319 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 12
+            [file] => frontend\assets\AppAsset.php
+            [message] => No docblock for element '$basePath'
+        )
+
+    [1] => Array
+        (
+            [line] => 12
+            [file] => frontend\assets\AppAsset.php
+            [message] => No short description for element '$basePath'
+        )
+
+    [2] => Array
+        (
+            [line] => 13
+            [file] => frontend\assets\AppAsset.php
+            [message] => No docblock for element '$baseUrl'
+        )
+
+    [3] => Array
+        (
+            [line] => 13
+            [file] => frontend\assets\AppAsset.php
+            [message] => No short description for element '$baseUrl'
+        )
+
+    [4] => Array
+        (
+            [line] => 14
+            [file] => frontend\assets\AppAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [5] => Array
+        (
+            [line] => 14
+            [file] => frontend\assets\AppAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [6] => Array
+        (
+            [line] => 17
+            [file] => frontend\assets\AppAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [7] => Array
+        (
+            [line] => 17
+            [file] => frontend\assets\AppAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [8] => Array
+        (
+            [line] => 21
+            [file] => frontend\assets\AppAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [9] => Array
+        (
+            [line] => 21
+            [file] => frontend\assets\AppAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [10] => Array
+        (
+            [line] => 23
+            [file] => frontend\controllers\AlimentoController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\AlimentoController.
+        )
+
+    [11] => Array
+        (
+            [line] => 12
+            [file] => frontend\controllers\ClinicoController.php
+            [message] => No docblock for element 'frontend\controllers\ClinicoController'
+        )
+
+    [12] => Array
+        (
+            [line] => 33
+            [file] => frontend\controllers\ClinicoController.php
+            [message] => No docblock for element 'actionAdd'
+        )
+
+    [13] => Array
+        (
+            [line] => 66
+            [file] => frontend\controllers\ClinicoController.php
+            [message] => No docblock for element 'findModelPaciente'
+        )
+
+    [14] => Array
+        (
+            [line] => 18
+            [file] => frontend\controllers\ClinicoController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\ClinicoController.
+        )
+
+    [15] => Array
+        (
+            [line] => 22
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'frontend\controllers\ConsultaController'
+        )
+
+    [16] => Array
+        (
+            [line] => 49
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'actionHistorial'
+        )
+
+    [17] => Array
+        (
+            [line] => 58
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'actionCreate'
+        )
+
+    [18] => Array
+        (
+            [line] => 71
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'actionGrafica'
+        )
+
+    [19] => Array
+        (
+            [line] => 84
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'actionAssing'
+        )
+
+    [20] => Array
+        (
+            [line] => 289
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'findModelPaciente'
+        )
+
+    [21] => Array
+        (
+            [line] => 298
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'findModelConsulta'
+        )
+
+    [22] => Array
+        (
+            [line] => 307
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'getHistorial'
+        )
+
+    [23] => Array
+        (
+            [line] => 315
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => No docblock for element 'getPlatillos'
+        )
+
+    [24] => Array
+        (
+            [line] => 28
+            [file] => frontend\controllers\ConsultaController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\ConsultaController.
+        )
+
+    [25] => Array
+        (
+            [line] => 11
+            [file] => frontend\controllers\DieteticoController.php
+            [message] => No docblock for element 'frontend\controllers\DieteticoController'
+        )
+
+    [26] => Array
+        (
+            [line] => 32
+            [file] => frontend\controllers\DieteticoController.php
+            [message] => No docblock for element 'actionAdd'
+        )
+
+    [27] => Array
+        (
+            [line] => 65
+            [file] => frontend\controllers\DieteticoController.php
+            [message] => No docblock for element 'findModelPaciente'
+        )
+
+    [28] => Array
+        (
+            [line] => 17
+            [file] => frontend\controllers\DieteticoController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\DieteticoController.
+        )
+
+    [29] => Array
+        (
+            [line] => 12
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'frontend\controllers\DownloadController'
+        )
+
+    [30] => Array
+        (
+            [line] => 33
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'actionHistorial'
+        )
+
+    [31] => Array
+        (
+            [line] => 74
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'actionDieta'
+        )
+
+    [32] => Array
+        (
+            [line] => 108
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'actionConsulta'
+        )
+
+    [33] => Array
+        (
+            [line] => 160
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'getMaxMinCreatedAtConsulta'
+        )
+
+    [34] => Array
+        (
+            [line] => 167
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'findModelPaciente'
+        )
+
+    [35] => Array
+        (
+            [line] => 176
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'findModelConsulta'
+        )
+
+    [36] => Array
+        (
+            [line] => 185
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'getHistorial'
+        )
+
+    [37] => Array
+        (
+            [line] => 193
+            [file] => frontend\controllers\DownloadController.php
+            [message] => No docblock for element 'getPlatillos'
+        )
+
+    [38] => Array
+        (
+            [line] => 18
+            [file] => frontend\controllers\DownloadController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\DownloadController.
+        )
+
+    [39] => Array
+        (
+            [line] => 20
+            [file] => frontend\controllers\PacienteController.php
+            [message] => No docblock for element '$layout'
+        )
+
+    [40] => Array
+        (
+            [line] => 20
+            [file] => frontend\controllers\PacienteController.php
+            [message] => No short description for element '$layout'
+        )
+
+    [41] => Array
+        (
+            [line] => 24
+            [file] => frontend\controllers\PacienteController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\PacienteController.
+        )
+
+    [42] => Array
+        (
+            [line] => 197
+            [file] => frontend\controllers\PlatilloController.php
+            [message] => No docblock for element 'getAlimentos'
+        )
+
+    [43] => Array
+        (
+            [line] => 26
+            [file] => frontend\controllers\PlatilloController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\PlatilloController.
+        )
+
+    [44] => Array
+        (
+            [line] => 32
+            [file] => frontend\controllers\SiteController.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [45] => Array
+        (
+            [line] => 30
+            [file] => frontend\controllers\SiteController.php
+            [message] => Method $layout has no parent to inherit from in frontend\controllers\SiteController.
+        )
+
+    [46] => Array
+        (
+            [line] => 63
+            [file] => frontend\controllers\SiteController.php
+            [message] => Method actions has no parent to inherit from in frontend\controllers\SiteController.
+        )
+
+    [47] => Array
+        (
+            [line] => 44
+            [file] => frontend\controllers\SocieconomicoController.php
+            [message] => No docblock for element 'actionAdd'
+        )
+
+    [48] => Array
+        (
+            [line] => 76
+            [file] => frontend\controllers\SocieconomicoController.php
+            [message] => No docblock for element 'findModelPaciente'
+        )
+
+    [49] => Array
+        (
+            [line] => 23
+            [file] => frontend\controllers\SocieconomicoController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\controllers\SocieconomicoController.
+        )
+
+    [50] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\Alimento.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [51] => Array
+        (
+            [line] => 41
+            [file] => frontend\models\Alimento.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [52] => Array
+        (
+            [line] => 51
+            [file] => frontend\models\Alimento.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [53] => Array
+        (
+            [line] => 67
+            [file] => frontend\models\Alimento.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [54] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\Alimento.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [55] => Array
+        (
+            [line] => 41
+            [file] => frontend\models\Alimento.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [56] => Array
+        (
+            [line] => 51
+            [file] => frontend\models\Alimento.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [57] => Array
+        (
+            [line] => 67
+            [file] => frontend\models\Alimento.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Alimento.
+        )
+
+    [58] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\AlimentoSearch.php
+            [message] => Method scenarios has no parent to inherit from in frontend\models\AlimentoSearch.
+        )
+
+    [59] => Array
+        (
+            [line] => 28
+            [file] => frontend\models\Cantidades.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Cantidades.
+        )
+
+    [60] => Array
+        (
+            [line] => 36
+            [file] => frontend\models\Cantidades.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Cantidades.
+        )
+
+    [61] => Array
+        (
+            [line] => 49
+            [file] => frontend\models\Cantidades.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Cantidades.
+        )
+
+    [62] => Array
+        (
+            [line] => 36
+            [file] => frontend\models\Consulta.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Consulta.
+        )
+
+    [63] => Array
+        (
+            [line] => 44
+            [file] => frontend\models\Consulta.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\Consulta.
+        )
+
+    [64] => Array
+        (
+            [line] => 54
+            [file] => frontend\models\Consulta.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Consulta.
+        )
+
+    [65] => Array
+        (
+            [line] => 72
+            [file] => frontend\models\Consulta.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Consulta.
+        )
+
+    [66] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\ContactForm.php
+            [message] => No docblock for element '$name'
+        )
+
+    [67] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\ContactForm.php
+            [message] => No short description for element '$name'
+        )
+
+    [68] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\ContactForm.php
+            [message] => No docblock for element '$email'
+        )
+
+    [69] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\ContactForm.php
+            [message] => No short description for element '$email'
+        )
+
+    [70] => Array
+        (
+            [line] => 15
+            [file] => frontend\models\ContactForm.php
+            [message] => No docblock for element '$subject'
+        )
+
+    [71] => Array
+        (
+            [line] => 15
+            [file] => frontend\models\ContactForm.php
+            [message] => No short description for element '$subject'
+        )
+
+    [72] => Array
+        (
+            [line] => 16
+            [file] => frontend\models\ContactForm.php
+            [message] => No docblock for element '$body'
+        )
+
+    [73] => Array
+        (
+            [line] => 16
+            [file] => frontend\models\ContactForm.php
+            [message] => No short description for element '$body'
+        )
+
+    [74] => Array
+        (
+            [line] => 17
+            [file] => frontend\models\ContactForm.php
+            [message] => No docblock for element '$verifyCode'
+        )
+
+    [75] => Array
+        (
+            [line] => 17
+            [file] => frontend\models\ContactForm.php
+            [message] => No short description for element '$verifyCode'
+        )
+
+    [76] => Array
+        (
+            [line] => 23
+            [file] => frontend\models\ContactForm.php
+            [message] => Method rules has no parent to inherit from in frontend\models\ContactForm.
+        )
+
+    [77] => Array
+        (
+            [line] => 38
+            [file] => frontend\models\ContactForm.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\ContactForm.
+        )
+
+    [78] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\DatosAntropometricos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\DatosAntropometricos.
+        )
+
+    [79] => Array
+        (
+            [line] => 41
+            [file] => frontend\models\DatosAntropometricos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DatosAntropometricos.
+        )
+
+    [80] => Array
+        (
+            [line] => 53
+            [file] => frontend\models\DatosAntropometricos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DatosAntropometricos.
+        )
+
+    [81] => Array
+        (
+            [line] => 22
+            [file] => frontend\models\DatosBioquimicos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\DatosBioquimicos.
+        )
+
+    [82] => Array
+        (
+            [line] => 30
+            [file] => frontend\models\DatosBioquimicos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DatosBioquimicos.
+        )
+
+    [83] => Array
+        (
+            [line] => 41
+            [file] => frontend\models\DatosBioquimicos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DatosBioquimicos.
+        )
+
+    [84] => Array
+        (
+            [line] => 24
+            [file] => frontend\models\DatosClinicos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\DatosClinicos.
+        )
+
+    [85] => Array
+        (
+            [line] => 32
+            [file] => frontend\models\DatosClinicos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DatosClinicos.
+        )
+
+    [86] => Array
+        (
+            [line] => 43
+            [file] => frontend\models\DatosClinicos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DatosClinicos.
+        )
+
+    [87] => Array
+        (
+            [line] => 31
+            [file] => frontend\models\DatosDieteticos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\DatosDieteticos.
+        )
+
+    [88] => Array
+        (
+            [line] => 39
+            [file] => frontend\models\DatosDieteticos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DatosDieteticos.
+        )
+
+    [89] => Array
+        (
+            [line] => 53
+            [file] => frontend\models\DatosDieteticos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DatosDieteticos.
+        )
+
+    [90] => Array
+        (
+            [line] => 25
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [91] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [92] => Array
+        (
+            [line] => 43
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [93] => Array
+        (
+            [line] => 55
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [94] => Array
+        (
+            [line] => 25
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [95] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [96] => Array
+        (
+            [line] => 43
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [97] => Array
+        (
+            [line] => 55
+            [file] => frontend\models\DatosSocieconomicos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DatosSocieconomicos.
+        )
+
+    [98] => Array
+        (
+            [line] => 27
+            [file] => frontend\models\Dieta.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Dieta.
+        )
+
+    [99] => Array
+        (
+            [line] => 35
+            [file] => frontend\models\Dieta.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Dieta.
+        )
+
+    [100] => Array
+        (
+            [line] => 50
+            [file] => frontend\models\Dieta.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Dieta.
+        )
+
+    [101] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\DownloadHistorial.php
+            [message] => No docblock for element '$fecha_fin'
+        )
+
+    [102] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\DownloadHistorial.php
+            [message] => No short description for element '$fecha_fin'
+        )
+
+    [103] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\DownloadHistorial.php
+            [message] => No docblock for element '$fecha_ini'
+        )
+
+    [104] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\DownloadHistorial.php
+            [message] => No short description for element '$fecha_ini'
+        )
+
+    [105] => Array
+        (
+            [line] => 19
+            [file] => frontend\models\DownloadHistorial.php
+            [message] => Method rules has no parent to inherit from in frontend\models\DownloadHistorial.
+        )
+
+    [106] => Array
+        (
+            [line] => 30
+            [file] => frontend\models\DownloadHistorial.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\DownloadHistorial.
+        )
+
+    [107] => Array
+        (
+            [line] => 32
+            [file] => frontend\models\EstiloVida.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\EstiloVida.
+        )
+
+    [108] => Array
+        (
+            [line] => 40
+            [file] => frontend\models\EstiloVida.php
+            [message] => Method rules has no parent to inherit from in frontend\models\EstiloVida.
+        )
+
+    [109] => Array
+        (
+            [line] => 52
+            [file] => frontend\models\EstiloVida.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\EstiloVida.
+        )
+
+    [110] => Array
+        (
+            [line] => 36
+            [file] => frontend\models\HistorialClinico.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\HistorialClinico.
+        )
+
+    [111] => Array
+        (
+            [line] => 44
+            [file] => frontend\models\HistorialClinico.php
+            [message] => Method rules has no parent to inherit from in frontend\models\HistorialClinico.
+        )
+
+    [112] => Array
+        (
+            [line] => 64
+            [file] => frontend\models\HistorialClinico.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\HistorialClinico.
+        )
+
+    [113] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\Intervencion.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Intervencion.
+        )
+
+    [114] => Array
+        (
+            [line] => 37
+            [file] => frontend\models\Intervencion.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Intervencion.
+        )
+
+    [115] => Array
+        (
+            [line] => 49
+            [file] => frontend\models\Intervencion.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Intervencion.
+        )
+
+    [116] => Array
+        (
+            [line] => 12
+            [file] => frontend\models\LoginForm.php
+            [message] => No docblock for element '$username'
+        )
+
+    [117] => Array
+        (
+            [line] => 12
+            [file] => frontend\models\LoginForm.php
+            [message] => No short description for element '$username'
+        )
+
+    [118] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\LoginForm.php
+            [message] => No docblock for element '$password'
+        )
+
+    [119] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\LoginForm.php
+            [message] => No short description for element '$password'
+        )
+
+    [120] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\LoginForm.php
+            [message] => No docblock for element '$rememberMe'
+        )
+
+    [121] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\LoginForm.php
+            [message] => No short description for element '$rememberMe'
+        )
+
+    [122] => Array
+        (
+            [line] => 22
+            [file] => frontend\models\LoginForm.php
+            [message] => Method rules has no parent to inherit from in frontend\models\LoginForm.
+        )
+
+    [123] => Array
+        (
+            [line] => 82
+            [file] => frontend\models\LoginForm.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\LoginForm.
+        )
+
+    [124] => Array
+        (
+            [line] => 23
+            [file] => frontend\models\Menu.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Menu.
+        )
+
+    [125] => Array
+        (
+            [line] => 31
+            [file] => frontend\models\Menu.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Menu.
+        )
+
+    [126] => Array
+        (
+            [line] => 43
+            [file] => frontend\models\Menu.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Menu.
+        )
+
+    [127] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [128] => Array
+        (
+            [line] => 41
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [129] => Array
+        (
+            [line] => 50
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [130] => Array
+        (
+            [line] => 70
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [131] => Array
+        (
+            [line] => 93
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method findIdentity has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [132] => Array
+        (
+            [line] => 101
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method findIdentityByAccessToken has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [133] => Array
+        (
+            [line] => 155
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method getId has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [134] => Array
+        (
+            [line] => 163
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method getAuthKey has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [135] => Array
+        (
+            [line] => 171
+            [file] => frontend\models\Nutriologo.php
+            [message] => Method validateAuthKey has no parent to inherit from in frontend\models\Nutriologo.
+        )
+
+    [136] => Array
+        (
+            [line] => 8
+            [file] => frontend\models\NutriologoController.php
+            [message] => No docblock for element 'frontend\models\NutriologoController'
+        )
+
+    [137] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\NutriologoController.php
+            [message] => No docblock for element 'actionChangePassword'
+        )
+
+    [138] => Array
+        (
+            [line] => 34
+            [file] => frontend\models\NutriologoController.php
+            [message] => No docblock for element 'actionPerfil'
+        )
+
+    [139] => Array
+        (
+            [line] => 39
+            [file] => frontend\models\NutriologoController.php
+            [message] => No docblock for element 'actionUpdate'
+        )
+
+    [140] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\NutriologoController.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\NutriologoController.
+        )
+
+    [141] => Array
+        (
+            [line] => 39
+            [file] => frontend\models\Paciente.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [142] => Array
+        (
+            [line] => 47
+            [file] => frontend\models\Paciente.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [143] => Array
+        (
+            [line] => 57
+            [file] => frontend\models\Paciente.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [144] => Array
+        (
+            [line] => 78
+            [file] => frontend\models\Paciente.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [145] => Array
+        (
+            [line] => 39
+            [file] => frontend\models\Paciente.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [146] => Array
+        (
+            [line] => 47
+            [file] => frontend\models\Paciente.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [147] => Array
+        (
+            [line] => 57
+            [file] => frontend\models\Paciente.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [148] => Array
+        (
+            [line] => 78
+            [file] => frontend\models\Paciente.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Paciente.
+        )
+
+    [149] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\PacienteSearch.php
+            [message] => Method scenarios has no parent to inherit from in frontend\models\PacienteSearch.
+        )
+
+    [150] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\PasswordResetRequestForm.php
+            [message] => No docblock for element '$email'
+        )
+
+    [151] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\PasswordResetRequestForm.php
+            [message] => No short description for element '$email'
+        )
+
+    [152] => Array
+        (
+            [line] => 19
+            [file] => frontend\models\PasswordResetRequestForm.php
+            [message] => Method rules has no parent to inherit from in frontend\models\PasswordResetRequestForm.
+        )
+
+    [153] => Array
+        (
+            [line] => 28
+            [file] => frontend\models\Platillo.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Platillo.
+        )
+
+    [154] => Array
+        (
+            [line] => 36
+            [file] => frontend\models\Platillo.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Platillo.
+        )
+
+    [155] => Array
+        (
+            [line] => 51
+            [file] => frontend\models\Platillo.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Platillo.
+        )
+
+    [156] => Array
+        (
+            [line] => 28
+            [file] => frontend\models\Platillo.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Platillo.
+        )
+
+    [157] => Array
+        (
+            [line] => 36
+            [file] => frontend\models\Platillo.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Platillo.
+        )
+
+    [158] => Array
+        (
+            [line] => 51
+            [file] => frontend\models\Platillo.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Platillo.
+        )
+
+    [159] => Array
+        (
+            [line] => 25
+            [file] => frontend\models\PlatilloAlimento.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\PlatilloAlimento.
+        )
+
+    [160] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\PlatilloAlimento.php
+            [message] => Method rules has no parent to inherit from in frontend\models\PlatilloAlimento.
+        )
+
+    [161] => Array
+        (
+            [line] => 45
+            [file] => frontend\models\PlatilloAlimento.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\PlatilloAlimento.
+        )
+
+    [162] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\PlatilloSearch.php
+            [message] => Method scenarios has no parent to inherit from in frontend\models\PlatilloSearch.
+        )
+
+    [163] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\Recordatorio.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\Recordatorio.
+        )
+
+    [164] => Array
+        (
+            [line] => 37
+            [file] => frontend\models\Recordatorio.php
+            [message] => Method rules has no parent to inherit from in frontend\models\Recordatorio.
+        )
+
+    [165] => Array
+        (
+            [line] => 49
+            [file] => frontend\models\Recordatorio.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\Recordatorio.
+        )
+
+    [166] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\ResetPasswordForm.php
+            [message] => No docblock for element '$password'
+        )
+
+    [167] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\ResetPasswordForm.php
+            [message] => No short description for element '$password'
+        )
+
+    [168] => Array
+        (
+            [line] => 43
+            [file] => frontend\models\ResetPasswordForm.php
+            [message] => Method rules has no parent to inherit from in frontend\models\ResetPasswordForm.
+        )
+
+    [169] => Array
+        (
+            [line] => 12
+            [file] => frontend\models\SignupForm.php
+            [message] => No docblock for element '$username'
+        )
+
+    [170] => Array
+        (
+            [line] => 12
+            [file] => frontend\models\SignupForm.php
+            [message] => No short description for element '$username'
+        )
+
+    [171] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\SignupForm.php
+            [message] => No docblock for element '$email'
+        )
+
+    [172] => Array
+        (
+            [line] => 13
+            [file] => frontend\models\SignupForm.php
+            [message] => No short description for element '$email'
+        )
+
+    [173] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\SignupForm.php
+            [message] => No docblock for element '$password'
+        )
+
+    [174] => Array
+        (
+            [line] => 14
+            [file] => frontend\models\SignupForm.php
+            [message] => No short description for element '$password'
+        )
+
+    [175] => Array
+        (
+            [line] => 20
+            [file] => frontend\models\SignupForm.php
+            [message] => Method rules has no parent to inherit from in frontend\models\SignupForm.
+        )
+
+    [176] => Array
+        (
+            [line] => 31
+            [file] => frontend\models\SintomasSignos.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\SintomasSignos.
+        )
+
+    [177] => Array
+        (
+            [line] => 39
+            [file] => frontend\models\SintomasSignos.php
+            [message] => Method rules has no parent to inherit from in frontend\models\SintomasSignos.
+        )
+
+    [178] => Array
+        (
+            [line] => 52
+            [file] => frontend\models\SintomasSignos.php
+            [message] => Method attributeLabels has no parent to inherit from in frontend\models\SintomasSignos.
+        )
+
+    [179] => Array
+        (
+            [line] => 29
+            [file] => frontend\models\SocieconomicoSearch.php
+            [message] => Method scenarios has no parent to inherit from in frontend\models\SocieconomicoSearch.
+        )
+
+    [180] => Array
+        (
+            [line] => 33
+            [file] => frontend\models\User.php
+            [message] => Method tableName has no parent to inherit from in frontend\models\User.
+        )
+
+    [181] => Array
+        (
+            [line] => 41
+            [file] => frontend\models\User.php
+            [message] => Method behaviors has no parent to inherit from in frontend\models\User.
+        )
+
+    [182] => Array
+        (
+            [line] => 51
+            [file] => frontend\models\User.php
+            [message] => Method rules has no parent to inherit from in frontend\models\User.
+        )
+
+    [183] => Array
+        (
+            [line] => 62
+            [file] => frontend\models\User.php
+            [message] => Method findIdentity has no parent to inherit from in frontend\models\User.
+        )
+
+    [184] => Array
+        (
+            [line] => 70
+            [file] => frontend\models\User.php
+            [message] => Method findIdentityByAccessToken has no parent to inherit from in frontend\models\User.
+        )
+
+    [185] => Array
+        (
+            [line] => 124
+            [file] => frontend\models\User.php
+            [message] => Method getId has no parent to inherit from in frontend\models\User.
+        )
+
+    [186] => Array
+        (
+            [line] => 132
+            [file] => frontend\models\User.php
+            [message] => Method getAuthKey has no parent to inherit from in frontend\models\User.
+        )
+
+    [187] => Array
+        (
+            [line] => 140
+            [file] => frontend\models\User.php
+            [message] => Method validateAuthKey has no parent to inherit from in frontend\models\User.
+        )
+
+)
